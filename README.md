@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://advice-generator-q6a5kxsza-johnwav.vercel.app)
+- Live Site URL: [Live site URL](https://advice-generator-q6a5kxsza-johnwav.vercel.app)
 
 ## My process
 
